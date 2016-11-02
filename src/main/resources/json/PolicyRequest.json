@@ -1,0 +1,20 @@
+{
+  "car":
+  {
+  	"marca": "HONDA",
+    "modelo": "2017"
+  },
+  "driver":
+  {
+  	"edad": 26,
+    "codigoPostal": "02710",
+    "nombre": "Miguel Delgadillo",
+    "correo": "mdelgadillo@mail.com"
+  },
+  "policy":
+  {
+  	"precio": 2600,
+    "tipo": "Completa"
+  }
+  
+}
